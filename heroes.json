@@ -7,10 +7,16 @@
       "element": "water"
     },
     {
-      "id": "8682eb4a-9e1e-429c-b21f-594f0d6bfdd7",
+      "id": "b01c33af-6048-493d-b10a-4bd9bee27744",
+      "name": "asdasd",
+      "description": "asdasd",
+      "element": "fire"
+    },
+    {
+      "id": "4b44f4f6-0891-4677-a05b-544a168b19b1",
       "name": "asdasdas",
-      "description": "asdasdasd",
-      "element": "earth"
+      "description": "asdasdas",
+      "element": "water"
     }
   ],
   "filters": [
