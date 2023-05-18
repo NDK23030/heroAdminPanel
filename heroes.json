@@ -7,10 +7,16 @@
       "element": "fire"
     },
     {
-      "id": "782fca1a-e226-4cf9-86ea-1996557f9105",
+      "id": "af500f48-a33e-4922-b17a-5cde6026b7f5",
       "name": "Denis",
-      "description": "123",
-      "element": "fire"
+      "description": "45re",
+      "element": "earth"
+    },
+    {
+      "id": "3c2a3923-24bc-4608-930f-f27828536974",
+      "name": "qwe",
+      "description": "zxc",
+      "element": "water"
     }
   ],
   "filters": [
