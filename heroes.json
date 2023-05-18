@@ -5,6 +5,12 @@
       "name": "asdasda",
       "description": "asdasda",
       "element": "water"
+    },
+    {
+      "id": "dd3b42c3-3ca4-4868-8a33-9b31c5404fab",
+      "name": "asdasd",
+      "description": "asdasda",
+      "element": "earth"
     }
   ],
   "filters": [
