@@ -1,10 +1,16 @@
 {
   "heroes": [
     {
-      "id": "7706d28d-44b3-4560-9cac-148e7cd1a23a",
+      "id": "59767c64-44ed-450c-b121-de01f4f313de",
+      "name": "asd",
+      "description": "123",
+      "element": "water"
+    },
+    {
+      "id": "b7132e0a-8476-4e74-ba59-426b298339db",
       "name": "Denis",
-      "decsription": "qwerfgt",
-      "element": "earth"
+      "description": "asdasd",
+      "element": "fire"
     }
   ],
   "filters": [
