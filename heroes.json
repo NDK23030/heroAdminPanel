@@ -7,34 +7,39 @@
       "element": "water"
     },
     {
-      "id": "dd3b42c3-3ca4-4868-8a33-9b31c5404fab",
-      "name": "asdasd",
-      "description": "asdasda",
+      "id": "8682eb4a-9e1e-429c-b21f-594f0d6bfdd7",
+      "name": "asdasdas",
+      "description": "asdasdasd",
       "element": "earth"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
